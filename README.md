@@ -1,6 +1,3 @@
-Sure! Here's a clean, single-file `README.md` for your **Gemini Clone** built using **React, HTML, and CSS**, with everything embedded inside one markdown file:
-
----
 
 ````markdown
 # 💬 Gemini Clone – AI Chatbot Interface
@@ -37,7 +34,7 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/yourusername/gemini-clone.git
 cd gemini-clone
-````
+
 
 ### 2. Install dependencies
 
@@ -111,3 +108,4 @@ console.log(response.text());
 Inspired by [Gemini by Google](https://gemini.google.com/). Built for learning purposes using Chai aur Code series as guidance.
 
 ---
+````
